@@ -1,1 +1,2 @@
-# ADRL_Momentum-Contrast_MoCO_SSRL
+# ADRL Course Assignment-3
+## Implementing Momentum-Contrast (MoCO) : Self-Supervised Representation Learning Method
